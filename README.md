@@ -24,6 +24,7 @@ Database: MySQL
 Styling: Custom CSS + Bootstrap (optional)  
 Carousel: Swiper.js (for image galleries)  
 Hosting: XAMPP (Localhost)
+
 ---
 
 ## Setup Instructions

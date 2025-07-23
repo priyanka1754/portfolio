@@ -1,0 +1,9 @@
+uploads/
+dist/
+libs/
+*.log
+*.env
+node_modules/
+profile_asset/
+plugins/
+build/
